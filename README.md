@@ -1,6 +1,6 @@
 # Software Carpentry Project
 
-![SWC IMAGE] (https://potterzot.com/2019-09-25-unm/assets/img/swc-icon-blue.svg)
+![SWC IMAGE](https://potterzot.com/2019-09-25-unm/assets/img/swc-icon-blue.svg)
 
 Example repository for software carpentry
 
