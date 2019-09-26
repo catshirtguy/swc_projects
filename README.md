@@ -1,6 +1,7 @@
-# Software Carpentry Project Project
+# Software Carpentry Project
 example repository for software carpentry
 
-<c><h> MOO </h></c>
+<B> MOO </B>
+<hr></hr>
 
-To install, clone this repository.
+<p> To install, clone this repository.</p>
